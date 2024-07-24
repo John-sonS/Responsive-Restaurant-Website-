@@ -1,0 +1,310 @@
+.logo-size {
+    width: 100px;
+    height: 90px;
+}
+
+#nav-item1 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#nav-item2 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#nav-item3 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#nav-item4 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.baner-section-bg-container {
+    background-image: url(https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141353.jpg?size=626&ext=jpg&ga=GA1.1.1476546461.1677399333&semt=ais);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.baner-heading {
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.baner-caption {
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    width: 140px;
+    height: 45px;
+    color: black;
+    background-color: #03fcf4;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.custom-outline-button {
+    width: 140px;
+    height: 45px;
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #03fcf4;
+
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.wcu-section-caption {
+    color: #183b56;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+.wcu-card {
+    background-color: rgb(235, 230, 225);
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 16px;
+    border-color: rgb(192, 197, 202);
+}
+
+.wcu-card-image {
+    height: 90px;
+    width: 100px;
+}
+
+.wcu-card-heading {
+    color: #183b56;
+    font-size: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+
+.wcu-card-caption {
+    color: #183b56;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.offer {
+    color: black;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.explore-bg-container {
+    background-color: white;
+}
+
+.explore-section-heading {
+    color: #183b56;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.explore-card {
+    border-radius: 16px;
+}
+
+.explore-card-image {
+    border-radius: 16px;
+}
+
+.explore-card-heading {
+    color:  #323f4b;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 30px;
+
+}
+
+.explore-card-link {
+    color: #d0b200;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-image {
+    width: 268px;
+}
+
+.healthy-food-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-family: roboto;
+    font-weight: 700;
+}
+
+.healthy-food-caption {
+    color: #5a7184;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+
+.healthy-food-button {
+    color: #183b56;
+    background-color: #03fcf4;
+    width: 145px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 15px;
+    border-right: 10px;
+}
+
+.delivery-payment-section {
+    background-color: #f9fbfe;
+}
+
+.delivery-payment-image {
+    width: 260px;
+}
+
+.delivery-payment-heading {
+    color: #183b56;
+    font-size: 28px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+
+.delivery-payment-caption {
+    color: #5a7184;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.delivery-payment-button {
+    color: #183b56;
+    background-color: #03fcf4;
+    width: 145px;
+    height: 45px;
+    border-radius: 15px;
+    border-width: 0px;
+    border-right: 10px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+
+}
+
+.thanking-customer-section {
+    background-image: radial-gradient(#03fcf4,#ffffff);
+ }
+
+.thanking-customer-heading {
+    color: #184a56;
+    font-size: 28px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+
+.thanking-customer-caption {
+    color: #184a56;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.thanking-customer-image {
+    width: 260px;
+}
+
+.thanking-customer-button {
+    color: #183b56;
+    background-image: radial-gradient(#ffffff,#03fcf4);
+    font-size: 1500;
+    width: 145px;
+    height: 45px;
+    border-radius: 15px;
+    border-width: 0px;
+    border-right: 10px;   
+}
+
+.redeem-gift-voucher-title {
+    color: #03fcf4;
+    font-weight: 700;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-heading {
+    color: #183b56;
+    font-size: 28px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.follow-us-icon-container {
+    background-color: #03fcf4;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: black;
+    font-size: 34px;
+}
+
+.footer-section {
+    background-color: #03fcf4;
+}
+
+.footer-image {
+    width: 120px;
+}
+
+.footer-mail-id {
+    color: #184a56;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.footer-address {
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #0e1214;
+    font-weight: 500;
+}
